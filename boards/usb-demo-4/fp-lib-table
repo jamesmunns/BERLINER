@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "/Users/james/Documents/KiCad/easyeda2kicad/easyeda2kicad.pretty")(options "")(descr ""))
+  (lib (name "backbone-16")(type "KiCad")(uri "/Users/james/hardware-v8/eurorack/backbone-16/parts/backbone-16.pretty")(options "")(descr ""))
+)
