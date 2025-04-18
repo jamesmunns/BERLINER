@@ -3545,6 +3545,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 66.04) (xy 171.45 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5aad19a1-46ea-4d5a-a784-909961ba0ea4")
+	)
+	(wire
+		(pts
 			(xy 22.86 134.62) (xy 29.21 134.62)
 		)
 		(stroke
@@ -3712,6 +3722,16 @@
 			(type default)
 		)
 		(uuid "b3aa8e98-94cb-4ef6-b5e9-86af9be46fe5")
+	)
+	(wire
+		(pts
+			(xy 194.31 73.66) (xy 200.66 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b795f4f6-3418-4c59-8be4-2741462f082c")
 	)
 	(wire
 		(pts
@@ -4203,7 +4223,6 @@
 	)
 	(label "COMMON"
 		(at 172.72 38.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4214,7 +4233,6 @@
 	)
 	(label "DP-1"
 		(at 64.77 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4225,7 +4243,6 @@
 	)
 	(label "XIN"
 		(at 48.26 156.21 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4236,7 +4253,6 @@
 	)
 	(label "XOUT"
 		(at 45.72 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4247,7 +4263,6 @@
 	)
 	(label "DN-3"
 		(at 64.77 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4258,7 +4273,6 @@
 	)
 	(label "PLED4"
 		(at 29.21 137.16 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4267,20 +4281,8 @@
 		)
 		(uuid "274d6409-90cd-4ae5-a54b-618051bb4177")
 	)
-	(label "CC2-DAT"
-		(at 194.31 73.66 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3a03b86d-75e1-4eb7-aec8-34dc652c7684")
-	)
 	(label "DN-DAT"
 		(at 171.45 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4291,7 +4293,6 @@
 	)
 	(label "DP-POW"
 		(at 100.33 45.72 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4302,7 +4303,6 @@
 	)
 	(label "CC1"
 		(at 118.11 45.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4313,7 +4313,6 @@
 	)
 	(label "CC2"
 		(at 118.11 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4324,7 +4323,6 @@
 	)
 	(label "DP-DAT"
 		(at 48.26 120.65 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4335,7 +4333,6 @@
 	)
 	(label "CFG1"
 		(at 118.11 40.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4344,20 +4341,8 @@
 		)
 		(uuid "5be142b7-c136-4d04-9caf-6e72a77edada")
 	)
-	(label "CC1-DAT"
-		(at 171.45 66.04 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5e227b0e-f264-4d51-a8be-a20bbc757f28")
-	)
 	(label "PLED2"
 		(at 29.21 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4368,7 +4353,6 @@
 	)
 	(label "CFG1"
 		(at 87.63 78.74 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4379,7 +4363,6 @@
 	)
 	(label "DN-1"
 		(at 172.72 35.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4390,7 +4373,6 @@
 	)
 	(label "CC2"
 		(at 261.62 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4401,7 +4383,6 @@
 	)
 	(label "COMMON"
 		(at 238.76 38.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4412,7 +4393,6 @@
 	)
 	(label "DP-POW"
 		(at 261.62 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4423,7 +4403,6 @@
 	)
 	(label "PLED1"
 		(at 21.59 20.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4434,7 +4413,6 @@
 	)
 	(label "DP-4"
 		(at 53.34 156.21 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4445,7 +4423,6 @@
 	)
 	(label "DN-2"
 		(at 64.77 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4456,7 +4433,6 @@
 	)
 	(label "DN-2"
 		(at 205.74 35.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4467,7 +4443,6 @@
 	)
 	(label "DP-DAT"
 		(at 158.75 115.57 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4478,7 +4453,6 @@
 	)
 	(label "COMMON"
 		(at 186.69 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4489,7 +4463,6 @@
 	)
 	(label "DN-POW"
 		(at 261.62 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4500,7 +4473,6 @@
 	)
 	(label "DN-1"
 		(at 64.77 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4511,7 +4483,6 @@
 	)
 	(label "CFG2"
 		(at 100.33 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4522,7 +4493,6 @@
 	)
 	(label "DN-DAT"
 		(at 194.31 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4533,7 +4503,6 @@
 	)
 	(label "DP-3"
 		(at 64.77 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4544,7 +4513,6 @@
 	)
 	(label "COMMON"
 		(at 273.05 38.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4555,7 +4523,6 @@
 	)
 	(label "DP-3"
 		(at 226.06 35.56 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4566,7 +4533,6 @@
 	)
 	(label "DN-POW"
 		(at 238.76 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4577,7 +4543,6 @@
 	)
 	(label "DP-4"
 		(at 260.35 35.56 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4588,7 +4553,6 @@
 	)
 	(label "DN-DAT"
 		(at 200.66 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4599,7 +4563,6 @@
 	)
 	(label "CFG3"
 		(at 100.33 43.18 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4610,7 +4573,6 @@
 	)
 	(label "XIN"
 		(at 45.72 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4621,7 +4583,6 @@
 	)
 	(label "DP-2"
 		(at 193.04 35.56 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4632,7 +4593,6 @@
 	)
 	(label "DP-DAT"
 		(at 194.31 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4643,7 +4603,6 @@
 	)
 	(label "COMMON"
 		(at 205.74 38.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4654,7 +4613,6 @@
 	)
 	(label "DP-1"
 		(at 160.02 35.56 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4665,7 +4623,6 @@
 	)
 	(label "CFG3"
 		(at 133.35 78.74 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4676,7 +4633,6 @@
 	)
 	(label "XOUT"
 		(at 45.72 156.21 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4687,7 +4643,6 @@
 	)
 	(label "DN-DAT"
 		(at 50.8 120.65 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4698,7 +4653,6 @@
 	)
 	(label "DN-POW"
 		(at 100.33 48.26 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4709,7 +4663,6 @@
 	)
 	(label "PLED4"
 		(at 41.91 43.18 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4720,7 +4673,6 @@
 	)
 	(label "DP-POW"
 		(at 238.76 68.58 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4731,7 +4683,6 @@
 	)
 	(label "DP-DAT"
 		(at 171.45 68.58 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4742,7 +4693,6 @@
 	)
 	(label "DN-3"
 		(at 238.76 35.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4753,7 +4703,6 @@
 	)
 	(label "PLED2"
 		(at 21.59 34.29 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4764,7 +4713,6 @@
 	)
 	(label "DP-2"
 		(at 64.77 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4775,7 +4723,6 @@
 	)
 	(label "PLED1"
 		(at 29.21 139.7 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4786,7 +4733,6 @@
 	)
 	(label "CC1"
 		(at 238.76 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4797,7 +4743,6 @@
 	)
 	(label "DN-4"
 		(at 273.05 35.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4808,7 +4753,6 @@
 	)
 	(label "CFG2"
 		(at 110.49 78.74 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4819,7 +4763,6 @@
 	)
 	(label "DN-4"
 		(at 50.8 156.21 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5100,6 +5043,73 @@
 			(project "usb-demo-4"
 				(path "/23b49c97-1624-4f1d-8f29-b56c1fbc21d1"
 					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 204.47 73.66 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "04e30bfd-0769-4a38-abd4-b422959a1337")
+		(property "Reference" "R10"
+			(at 204.47 71.374 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5.1K"
+			(at 204.47 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 204.47 75.438 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 204.47 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 204.47 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3f93b395-9e5f-434b-86d7-ba635724a56d")
+		)
+		(pin "2"
+			(uuid "4441c6fc-5916-4e4e-a55b-5d2ad5740a46")
+		)
+		(instances
+			(project "usb-demo-4"
+				(path "/23b49c97-1624-4f1d-8f29-b56c1fbc21d1"
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -6475,6 +6485,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 208.28 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2607c50a-6003-42fd-b70e-831b846e2fe1")
+		(property "Reference" "#PWR084"
+			(at 208.28 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 208.28 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.28 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 208.28 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a6e66aed-effa-4e6c-b219-234f0dc918a7")
+		)
+		(instances
+			(project "usb-demo-4"
+				(path "/23b49c97-1624-4f1d-8f29-b56c1fbc21d1"
+					(reference "#PWR084")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 162.56 115.57 90)
 		(unit 1)
@@ -7433,6 +7509,72 @@
 			(project "usb-demo-4"
 				(path "/23b49c97-1624-4f1d-8f29-b56c1fbc21d1"
 					(reference "#PWR051")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 154.94 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "47fa0f3f-75ca-4678-b80d-8e38eb2ab159")
+		(property "Reference" "#PWR085"
+			(at 154.94 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 154.94 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 154.94 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.94 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 154.94 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "812e31ff-9902-40bc-9ac9-09cacec57a18")
+		)
+		(instances
+			(project "usb-demo-4"
+				(path "/23b49c97-1624-4f1d-8f29-b56c1fbc21d1"
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -11639,6 +11781,73 @@
 			(project "usb-demo-4"
 				(path "/23b49c97-1624-4f1d-8f29-b56c1fbc21d1"
 					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 158.75 66.04 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cd8477c1-e877-4e5f-b4a2-64cd806962f4")
+		(property "Reference" "R9"
+			(at 158.75 63.754 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5.1K"
+			(at 158.75 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 158.75 67.818 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 158.75 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 158.75 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "36734877-9b6a-4efe-adcb-ced9e5a17407")
+		)
+		(pin "2"
+			(uuid "fbd6881e-d459-4387-b548-5b84f7efca42")
+		)
+		(instances
+			(project "usb-demo-4"
+				(path "/23b49c97-1624-4f1d-8f29-b56c1fbc21d1"
+					(reference "R9")
 					(unit 1)
 				)
 			)
